@@ -12,4 +12,5 @@ Create account login and move to dataset section and find dataset entitled as
 => https://universe.roboflow.com/manuel-wilson/industrial-safety-helmet
 
 #### Deploying the model
+Clone the repository of official  yoloV5 firstly,
 Use the deployment notebook to deploy the model it easier to customize pass the parameters and keep going
